@@ -80,7 +80,7 @@
   display: flex;
   flex-direction: row;
   font-family: "Montserrat";
-  margin-top: 40px;
+  margin-top: 30px;
   text-align: center;
   justify-content: space-around;
   align-items: center;
@@ -179,8 +179,10 @@ body {
 .timeline {
   position: relative;
   max-width: 1475px;
-  margin: 0 auto;
+  margin: 30px auto ;
   display: block;
+  padding-top: 20px;
+
 }
 
 /* The actual timeline (the vertical ruler) */
