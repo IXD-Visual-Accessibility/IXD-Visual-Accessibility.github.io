@@ -449,6 +449,15 @@ a {
   color: inherit
 }
 
+.in_text_links {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.in_text_links:hover {
+  background-color: #f2ff00;
+}
+
 /* The hero image */
 .hero-image_accessibility {
   background-image: url("Media/accessibility_banner.png");
