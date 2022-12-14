@@ -179,7 +179,7 @@ body {
 .timeline {
   position: relative;
   max-width: 1475px;
-  margin: 30px auto ;
+  margin: 30px auto;
   display: block;
   padding-top: 20px;
 
@@ -685,7 +685,14 @@ figcaption {
 
 .hint {
   background-color: #f2ff00;
-  padding: 20px;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+em {
+  font-weight: 600;
 }
 
 .bg_section {
@@ -746,4 +753,16 @@ figcaption {
   flex-direction: column;
   color: black;
   box-sizing: border-box;
+}
+
+.aside_you_may_like {
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin-top: 80px;
+}
+
+.references {
+  color: #464646;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
