@@ -64,13 +64,6 @@ max-width : 30px;
   .dropdown:hover .dropdown-content {
     display: block;
   }
-
-  .banner{ display: flex;
-    background-color: #00ffff;
-justify-content: center;
-padding: 50px;
-align-items: center;
-}
 .footer{ background-color: #00ffff;
 display: flex;
 flex-direction: row;
