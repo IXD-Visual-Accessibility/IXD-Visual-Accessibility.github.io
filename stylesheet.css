@@ -153,6 +153,7 @@
   justify-content: right;
   align-items: center;
 }
+
 .image2 {
   display: block;
   max-width: 50%;
@@ -309,7 +310,9 @@ body {
   max-height: 100px;
 }
 
-.list{ list-style: none;}
+.list {
+  list-style: none;
+}
 
 
 /*Nishi's Pages*/
