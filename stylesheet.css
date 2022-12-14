@@ -461,10 +461,6 @@ figcaption {
   margin-bottom: 24px;
 }
 
-a {
-  text-decoration: none;
-  color: inherit
-}
 
 .in_text_links {
   text-decoration: underline;
