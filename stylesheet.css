@@ -116,6 +116,7 @@
 .button-link:visited {
   text-decoration: none;
 }
+.anchor{text-decoration: none;}
 
 .section {
   display: flex;
