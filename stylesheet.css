@@ -153,6 +153,7 @@
   justify-content: right;
   align-items: center;
 }
+
 .image2 {
   display: block;
   max-width: 50%;
@@ -309,7 +310,9 @@ body {
   max-height: 100px;
 }
 
-.list{ list-style: none;}
+.list {
+  list-style: none;
+}
 
 
 /*Nishi's Pages*/
@@ -708,4 +711,40 @@ a {
   margin-top: 10px;
   margin-bottom: 10px;
   font-weight: 800;
+}
+
+.product_body {
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.product_body img {
+  width: 397px;
+  height: 256px;
+  border-radius: 15px;
+}
+
+.physical_object_ctn {
+  display: flex;
+
+}
+
+.flex-row {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flex-col {
+  margin: 6px;
+  padding: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  flex-direction: column;
+  color: black;
+  box-sizing: border-box;
 }
