@@ -309,9 +309,7 @@ h2 {
   color: #0d0c0c;
 }
 
-body {
-  font-family: 'Noto Sans', 'Courier New', Courier, monospace;
-}
+
 
 .about-accessibility {
   margin: 30px;
@@ -444,6 +442,11 @@ figcaption {
   line-height: 24px;
   font-weight: 400;
   margin-bottom: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit
 }
 
 /* The hero image */
@@ -675,4 +678,14 @@ figcaption {
   text-align: center;
   font-size: small;
   color: white;
+}
+
+.project_title {
+  font-family: 'montserrat';
+  text-align: start;
+  line-height: 30px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 800;
 }
