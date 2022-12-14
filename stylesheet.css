@@ -117,6 +117,16 @@
   text-decoration: none;
 }
 .anchor{text-decoration: none;}
+.anchor:link,
+.anchor:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.anchor:hover {
+  color: #0d0c0c;
+  text-decoration: none;
+}
 
 .section {
   display: flex;
