@@ -153,6 +153,14 @@
   justify-content: right;
   align-items: center;
 }
+.image2 {
+  display: block;
+  max-width: 50%;
+  margin: 20px auto;
+  padding: 10px;
+  justify-content: right;
+  align-items: center;
+}
 
 /* Timeline */
 
@@ -300,6 +308,9 @@ body {
   max-width: 100px;
   max-height: 100px;
 }
+
+.list{ list-style: none;}
+
 
 /*Nishi's Pages*/
 
