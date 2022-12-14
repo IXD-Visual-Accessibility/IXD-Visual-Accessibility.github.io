@@ -75,7 +75,7 @@
   display: block;
 }
 
-.footer {
+.footer_author {
   background-color: #00ffff;
   display: flex;
   flex-direction: row;
@@ -666,4 +666,13 @@ figcaption {
 .bg_section {
   background-color: #f7f7f7;
   padding: 40px;
+}
+
+.copyright {
+  background-color: black;
+  height: 35px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: small;
+  color: white;
 }
