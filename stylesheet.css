@@ -349,8 +349,9 @@ h2 {
 }
 
 .about-us {
-  margin: 30px;
-  padding: 160px;
+
+  padding-left: 160px;
+  padding-right: 160px;
   justify-content: center;
   align-items: center;
 }
